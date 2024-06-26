@@ -1,1 +1,3 @@
 # Virtuoso-CAD-Design-Circuits
+
+Virtuoso-CAD offers powerful tools for analyzing CMOS circuits. For a CMOS inverter, it performs DC analysis to study static behavior, transient analysis for dynamic response, and parametric analysis for performance under varying conditions. It also conducts transient analysis on 2-input NAND, NOR, XOR, and XNOR gates to understand their switching behavior. The transient analysis of a CMOS inverter-based D latch evaluates its state retention and switching performance. Additionally, the NMOS common source amplifier is analyzed for transient response and frequency characteristics, key for assessing its amplification and bandwidth.
